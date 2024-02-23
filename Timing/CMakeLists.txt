@@ -10,3 +10,4 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 # set(CMAKE_CXX_FLAGS "-O1")
 
 add_subdirectory(source)
+# add_subdirectory(eigen)
